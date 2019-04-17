@@ -42,39 +42,39 @@ For the **Optional** Marvel movie data analysis part, we also used a web crawler
 
 The top 20 highest box office moveis from 2014 to 2018 are shown in the following figure. "Avengers: Infinity War" is the box office champion for the past 5 years. "Rogue One: A Star War Story" and "Jurassic World" are the 2nd and 3rd.
     
-![top 20 movies](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/bo_top20_movies.png)
+![top 20 movies](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/bo_top20_movies.png)
 
 The top 20 actors with the highest accumulative box office from 2014 to 2018 are shown in the following figure. Chris Evans is the accumulative box office champion for the past 5 years. Robert Downey Jr. is right behind him and really close.
 
-![top 20 actors](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/total_bo_top20_actors.png)
+![top 20 actors](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/total_bo_top20_actors.png)
 
 The top 20 directors with the highest accumulative box office from 2014 to 2018 are shown in the following figure. Russo Brothers are the accumulative box office champion for the past 5 years.
 
-![top 20 directors](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/total_bo_top20_directors.png)
+![top 20 directors](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/total_bo_top20_directors.png)
 
 The we want to analyze the performance of movies from different genres for the past 5 years. The following figure shows the total number of movies from different genres between 2014 and 2018. Note that one specific movie may belong to several different genres. From the figure, it is seen that the most popular genre for the past 5 years is "Drama".
 
-![num genres](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/genre_total_plot_1.png)
+![num genres](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/genre_total_plot_1.png)
 
 From the following figure, it is seen that in terms of accumulative box office, the genre "Adventure" is the champion for the past 5 years, although the genre "Action" is really close.
 
-![bo genres](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/genre_total_plot_2.png)
+![bo genres](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/genre_total_plot_2.png)
 
 However, it is seen from the following figure that in terms of average box office, the genre "Sci-Fi" is the champion for the past 5 years. "Adventure" is right behind it and really close.
 
-![avg bo genres](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/genre_total_plot_3.png)
+![avg bo genres](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/genre_total_plot_3.png)
 
 Then we want to investigate the trend of box office for the past 5 years. **The data for 2018 is eliminated for this analysis due to the number of samples are not large enough.** The following figure shows the plot of total box office from 2014 to 2017. It can be seen that from 2016, the total box office of the year has increased significantly.
 
-![total bo](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/total_bo_plot.png)
+![total bo](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/total_bo_plot.png)
 
 The following figure shows the average box office for each year from 2014 to 2017. It can be seen that among these 4 years, 2015 has the lowest average box office and 2016 has the highest box office. It should be noticed that although 2017 has much higher total box office comparing to 2014, the average box office of these 2 years are quite close. The reason for this is that 2017 has more movies released compared to 2014.
 
-![avg bo](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/avg_bo_plot.png)
+![avg bo](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/avg_bo_plot.png)
 
 Finally, we investigate the average rating of the movies from 2014 to 2018. We gathered the rating data from 3 diffrerent sources: IMDB, Rotten Tomatoes and Metacritic. From the follwing figure, it is seen that the trend of rating from all 3 sources are basically the same. It is intereting to notice that year 2015 has the lowest total and average box office, but has the highest average rating among the past 5 years. This interesting result reveals that this is no direct relation between the rating of the movies and their box office.
 
-![avg ratings](https://github.com/DataNoob0723/Movie-Data_Analysis_Project/raw/master/images/avg_rating_plot.png)
+![avg ratings](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/avg_rating_plot.png)
 
 ### Extra: IMDB Movie Reviews Sentiment Analysis
 
