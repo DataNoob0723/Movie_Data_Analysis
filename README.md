@@ -42,7 +42,7 @@ For the **Optional** Marvel movie data analysis part, we also used a web crawler
 
 The top 20 highest box office moveis from 2014 to 2018 are shown in the following figure. "Avengers: Infinity War" is the box office champion for the past 5 years. "Rogue One: A Star War Story" and "Jurassic World" are the 2nd and 3rd.
     
-![top 20 movies](https://github.com/DataNoob0723/Movie-Data_Analysis/raw/master/images/bo_top20_movies.png)
+![top 20 movies](https://github.com/DataNoob0723/Movie_Data_Analysis/raw/master/images/bo_top20_movies.png)
 
 The top 20 actors with the highest accumulative box office from 2014 to 2018 are shown in the following figure. Chris Evans is the accumulative box office champion for the past 5 years. Robert Downey Jr. is right behind him and really close.
 
